@@ -6,7 +6,7 @@ point or run out — helping prevent material shortages that stop a production l
 
 Built with Python, SQL, Plotly and Streamlit.
 
-**Live app:** _add your Streamlit URL here after deployment_
+**Live app:** https://akshaygade-inventory-stockout-dashboard.streamlit.app/
 
 ---
 
